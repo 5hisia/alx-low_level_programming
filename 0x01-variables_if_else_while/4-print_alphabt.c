@@ -9,10 +9,14 @@
 */
 int main(void)
 {
-char ch;
-for (ch = 'a'; ch <= 'z'; ch++)
+char a;
+for (a = 'a'; a <= 'z'; a++)
 {
-putchar(ch);
+if (a == 'q' || a == 'e')
+{
+continue;
+}
+putchar(a);
 }
 putchar('\n');
 return (0);
