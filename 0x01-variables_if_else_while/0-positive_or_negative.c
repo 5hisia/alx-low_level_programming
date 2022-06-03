@@ -5,7 +5,7 @@
  *
  *Return: always 0
  */
-void main ()
+int main (void)
 {
 int n;
  printf("input a number")
