@@ -1,12 +1,19 @@
-#include <stdio.h>
+#include <stdio>
 #include "main.h"
 /**
- * main - prints main char
- *  print  - _putchar
+ * main  main fuctions 
+ * creating functions
  */
-int main(void)
+void _putchar(void)
 {
-	_putchar('_putchar');
-	_putchar('/n')
-	return(0);
+_putchar("_");
+_putchar("p");
+_putchar("u");
+_putchar("t");
+_putchar("c");
+_putchar("h");
+_putchar("a");
+_putchar("r");
+_putchar("\n");
+return(0);
 }
