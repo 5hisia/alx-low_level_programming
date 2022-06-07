@@ -4,7 +4,7 @@
  * main  main fuctions 
  * creating functions
  */
-void _putchar(void)
+int main(void)
 {
 _putchar("_");
 _putchar("p");
