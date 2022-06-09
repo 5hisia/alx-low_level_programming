@@ -1,1 +1,2 @@
-c debuging
+Introduction to debugging on AlX
+
