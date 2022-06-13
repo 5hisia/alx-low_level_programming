@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- *reset_to_98 - start point 
+ * reset_to_98 - start point
  * @n: pointer
  *
  * Return: void
